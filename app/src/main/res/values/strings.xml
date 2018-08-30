@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DuoNavDrawer</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <array name="menuOptions">
+        <item>Profile</item>
+        <item>Services</item>
+        <item>Packages</item>
+        <item>Cart</item>
+        <item>About</item>
+        <item>Gallery</item>
+        <item>Booking</item>
+        <item>Location</item>
+        <item>Terims and Condition</item>
+        <item>Logout</item>
+    </array>
+</resources>
